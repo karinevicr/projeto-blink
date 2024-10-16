@@ -26,7 +26,16 @@ Foto do Arduino com o LED aceso:
 <p><b>Fonte:</b> Material elaborado pela autora. (2024)</p>
 </div>
 
+ ** Video para comprovanção do led funcionando:**
 
+<div align="center">
+  <p>Figura 3 - Funcionamento do LED em vídeo</p>
+  <video width="320" height="240" controls>
+    <source src="assets/video-led.mp4" type="video/mp4">
+    Seu navegador não suporta o elemento de vídeo.
+  </video>
+  <p><b>Fonte:</b> Material elaborado pela autora. (2024)</p>
+</div>
 
 
 
