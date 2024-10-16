@@ -30,10 +30,9 @@ A comprovação do funcionamento foi realizada por meio de uma fotografia mostra
 
 <div align="center">
   <p>Figura 3 - Funcionamento do LED em vídeo</p>
-  <video width="320" height="240" controls>
-    <source src="assets/video-led.mp4" type="video/mp4">
-    Seu navegador não suporta o elemento de vídeo.
-  </video>
+<video width="320" height="240" controls>
+  <source src="assets/video-led.mp4" type="video/mp4">
+</video>
   <p><b>Fonte:</b> Material elaborado pela autora. (2024)</p>
 </div>
 
