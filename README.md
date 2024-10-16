@@ -10,7 +10,7 @@ Desenvolver um código que faça o LED embutido no Arduino piscar. O tempo de ac
 ### **Comprovação:**
 A comprovação do funcionamento foi realizada por meio de uma fotografia mostrando o Arduino conectado ao computador e o LED piscando. Seguem as evidências:
 
-Foto do Arduino com o LED aceso: 
+
 
 <div align="center">
  <p> Figura 1 - Led vermelho funcioando </p>
@@ -18,7 +18,7 @@ Foto do Arduino com o LED aceso:
 <p><b>Fonte:</b> Material elaborado pela autora. (2024)</p>
 </div>
 
- **Foto do codigo do arduino para fazer o led funcionar:**
+
 
 <div align="center">
  <p> Figura 2  - Foto do codigo ultilizado</p>
@@ -26,7 +26,7 @@ Foto do Arduino com o LED aceso:
 <p><b>Fonte:</b> Material elaborado pela autora. (2024)</p>
 </div>
 
- ** Video para comprovanção do led funcionando:**
+
 
 <div align="center">
   <p>Figura 3 - Funcionamento do LED em vídeo</p>
