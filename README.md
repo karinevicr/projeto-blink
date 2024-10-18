@@ -54,8 +54,7 @@ Além disso, também abaixo pode ser encontrado o código usado em C/C++.
 Resultado:
 
 ```cpp
-// C++ code
-//
+
 void setup()
 {
   pinMode(13, OUTPUT);
@@ -64,8 +63,7 @@ void setup()
 void loop()
 {
   digitalWrite(13, HIGH);
-  delay(1000); // Wait for 1000 millisecond(s)
+  delay(1000); 
   digitalWrite(13, LOW);
-  delay(1000); // Wait for 1000 millisecond(s)
-}
+  delay(1000); 
 
