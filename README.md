@@ -1,6 +1,6 @@
 ## Atividade: Piscar LED com Arduino
 
-Aluna: Karine Victoria Rosa da Paixão
+Aluna: Karine Victoria Rosa da Paixão <br/>
 Data: 16/01/2024
 
 
